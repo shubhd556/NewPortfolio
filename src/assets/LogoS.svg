@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="1024" viewBox="0 0 1280 1024" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 640 512)" id="background-logo"  >
+<rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  x="-640" y="-512" rx="0" ry="0" width="1280" height="1024" />
+</g>
+<g transform="matrix(1.9211538461538462 0 0 1.9211538461538462 641.5650106604653 498.9043602610201)" id="text-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)" id="text-logo-path-0"  >
+<linearGradient id="SVGID_201894" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 5.119327282206967 -242.21)"  x1="-5.8989960289001715" y1="-62.85557999999995" x2="-5.8989960289001715" y2="329.1444200000001">
+<stop offset="0%" style="stop-color:rgb(250,217,97);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(247,107,28);stop-opacity: 1"/>
+</linearGradient>
+<filter id="SVGID_201892" y="-27.641724254876838%" height="155.28344850975367%" x="-39.07058293577208%" width="178.14116587154416%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="24.097222222222197" dy="19.277777777777803" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(54,75,123)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: rgb(0,17,83); stroke-width: 23.39325842696629; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_201894); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_201892);"  paint-order="stroke"  transform=" translate(-68.29836670480712, 116.075)" d="M 80.16 -143.31 C 70.44 -132.55 90.57 -114.16 100.28 -125.27 C 124.23 -151.99 156.5 -242.21 100.28 -242.21 C 58.99 -242.21 14.23 -181.13 5.9 -134.64 C -4.16 -77.38 86.4 -66.97 82.59 -43.72 C 79.12 -24.29 51.01 -10.06 34.7 -10.06 C 29.15 -10.06 23.25 -22.56 41.64 -42.68 C 47.19 -48.93 35.74 -59.34 29.84 -53.09 C 11.45 -32.97 -0.69 10.06 30.54 10.06 C 62.11 10.06 91.26 -8.33 96.47 -38.86 C 105.14 -86.4 19.43 -96.81 26.03 -135.33 C 32.27 -171.07 69.4 -228.33 103.06 -228.33 C 121.8 -228.33 111.04 -178.01 80.16 -143.31 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
