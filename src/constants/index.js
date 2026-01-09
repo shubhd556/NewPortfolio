@@ -22,6 +22,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  DSAPrgress,
+  DailyPlanner
 } from "../assets";
 
 export const navLinks = [
@@ -34,7 +36,7 @@ export const navLinks = [
     title: "Work",
   },
   {
-    id: "projects",
+    id: "project",
     title: "Projects",
   },
   {
@@ -205,46 +207,46 @@ const projects = [
     source_code_link: "https://github.com/shubhd556/BestResto/",
   },
   {
-    name: "Job IT",
+    name: "DSA Progress tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The DSAProgresstracker is a personal, web-based application designed to help users track their progress through the NeetCode 150 (a popular curated list of Data Structures and Algorithms problems for interview preparation). It provides a clean, organized interface to mark problems as complete, visualize statistics, and gamify the learning process.",
     tags: [
       {
-        name: "react",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: DSAPrgress,
+    source_code_link: "https://github.com/shubhd556/DSAProgresstracker",
   },
   {
-    name: "Trip Guide",
+    name: "Daily Planner",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Daily Planner with Gemini AI This project transforms a standard to-do list into an intelligent productivity tool. Built on Next.js 14, it leverages the Gemini API to offer a conversational interface alongside a traditional UI. Users can type natural instructions like 'Move my gym session to 6 PM and mark it as high priority,' and the AI executes the changes instantly via custom tool-calling.",
     tags: [
       {
-        name: "nextjs",
+        name: "Next.js 14,",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "React 18",
         color: "green-text-gradient",
       },
       {
-        name: "css",
-        color: "pink-text-gradient",
+        name: "Google Gemini API",
+        color: "black-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: DailyPlanner,
+    source_code_link: "https://github.com/shubhd556/DailyPlanner",
   },
 ];
 
